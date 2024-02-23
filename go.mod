@@ -1,4 +1,4 @@
-module github.com/troy-gilman/utils
+module github.com/troygilman0/utils
 
 go 1.21.3
 
